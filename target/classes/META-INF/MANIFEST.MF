@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: No User
+Build-Jdk: 1.8.0_161
+Main-Class: me.nullbyte.selfbot.JSelfBot
+Created-By: Maven Integration for Eclipse
+
